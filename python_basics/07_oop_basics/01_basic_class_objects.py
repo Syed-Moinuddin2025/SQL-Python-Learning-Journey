@@ -16,7 +16,7 @@ class Car:
 my_car = Car("Toyota", "Corolla")
 
 # Display car information
-my_car.display_info()
+#my_car.display_info()
 print(my_car.brand)
 print(my_car.model)
 # You can also access individual attributes
