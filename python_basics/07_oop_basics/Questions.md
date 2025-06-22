@@ -4,8 +4,9 @@
 2. Class Method and Self
 3. Inheritance
 4. Encapsulation
-5. Class Variables
-6. Static Method
-7. Property Decorators
-8. Class Inheritance and isinstance() Function
-9. Multiple Inheritance
+5. Polymorphism
+6. Class Variables
+7. Static Method
+8. Property Decorators
+9. Class Inheritance and isinstance() Function
+10. Multiple Inheritance
