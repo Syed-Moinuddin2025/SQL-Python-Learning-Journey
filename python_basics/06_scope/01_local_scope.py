@@ -5,3 +5,5 @@ def greet():
 greet()
 
 # print(name)  # ❌ Error: name is not defined (local scope)
+
+
