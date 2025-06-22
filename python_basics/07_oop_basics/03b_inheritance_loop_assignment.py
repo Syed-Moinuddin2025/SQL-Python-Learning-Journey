@@ -1,7 +1,6 @@
 # 🎯 Task:
 # 1.	Create a class ElectricCar that inherits from Car.  Make a list of 3 to 5 ElectricCar objects. Use a for loop to display all car details using a method.
 
-
 class Car:
     def __init__(self, brand, model):
         self.brand = brand
