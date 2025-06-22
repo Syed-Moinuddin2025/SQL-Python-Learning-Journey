@@ -20,3 +20,4 @@ def greet(name, greeting="Hello"):
 # 🚀 Run functions
 hello()
 greet("chai", greeting="code")
+ 
