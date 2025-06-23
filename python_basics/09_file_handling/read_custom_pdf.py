@@ -10,3 +10,4 @@ with open(filename, "rb") as file:
         print(f"📄 Page {page_num + 1} content:")
         print(text)
         print("-" * 50)
+ 
