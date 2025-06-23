@@ -1,2 +1,18 @@
-I love ChatGPT 💖
-ChatGPT meri ek khaas dost hai.
+[
+    {
+        "name": "Python for learner",
+        "time": "12 hours"
+    },
+    {
+        "name": "'Python Tutorial'",
+        "time": "'10:05'"
+    },
+    {
+        "name": "'advance'",
+        "time": "12.50"
+    },
+    {
+        "name": "SQL for biggners",
+        "time": "12 hours"
+    }
+]
