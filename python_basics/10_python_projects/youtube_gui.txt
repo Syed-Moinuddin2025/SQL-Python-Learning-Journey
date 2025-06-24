@@ -1,6 +1,10 @@
 [
     {
-        "name": "2 mera naam ",
+        "name": "1 SQL is easy",
         "time": "2 mins"
+    },
+    {
+        "name": "2.pyton  shikna hai",
+        "time": "10 "
     }
 ]
