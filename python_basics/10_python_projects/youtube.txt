@@ -2,5 +2,9 @@
     {
         "name": " Parctice zarori hai",
         "time": "5.20 mins"
+    },
+    {
+        "name": "python training lesson",
+        "time": "30:03 mins"
     }
 ]
