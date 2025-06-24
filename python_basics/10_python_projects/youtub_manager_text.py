@@ -1,20 +1,22 @@
 import json
 import os
 
-# current folder path
-base_path = os.path.dirname(__file__)
+# ✅ Step 1: Get current script's directory
+base_path = os.path.dirname(os.path.abspath(__file__))
+
+# ✅ Step 2: Set the full path to youtube.txt
 file_path = os.path.join(base_path, "youtube.txt")
 # Load data from file
 def load_data():
     try:
-        with open('youtube.txt', 'r') as file:
+        with open(file_path, 'r') as file:
             return json.load(file)
     except FileNotFoundError:
         return []
 
 # Save data to file
 def save_data_helper(videos):
-    with open('youtube.txt', 'w') as file:
+    with open(file_path, 'w') as file:
         json.dump(videos, file, indent=4)
 
 # List all videos
