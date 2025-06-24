@@ -1,5 +1,9 @@
 import json
+import os
 
+# current folder path
+base_path = os.path.dirname(__file__)
+file_path = os.path.join(base_path, "youtube.txt")
 # Load data from file
 def load_data():
     try:
@@ -90,3 +94,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print("Running from:", os.getcwd())

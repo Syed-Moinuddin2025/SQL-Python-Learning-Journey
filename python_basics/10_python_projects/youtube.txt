@@ -1,0 +1,6 @@
+[
+    {
+        "name": " Parctice zarori hai",
+        "time": "5.20 mins"
+    }
+]

@@ -2,7 +2,12 @@ import tkinter as tk
 from tkinter import messagebox, simpledialog
 import json
 
-DATA_FILE = "youtube.txt"
+import os
+
+# current folder path
+base_path = os.path.dirname(__file__)
+text_path = os.path.join(base_path, "youtubegui.txt")
+DATA_FILE = "youtube_gui.txt"
 
 # Load data
 def load_data():
