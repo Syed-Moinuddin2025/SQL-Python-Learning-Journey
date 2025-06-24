@@ -1,6 +1,6 @@
 [
     {
-        "name": "1.First video python",
-        "time": "50 mins"
+        "name": "2 mera naam ",
+        "time": "2 mins"
     }
 ]
