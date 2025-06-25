@@ -1,7 +1,7 @@
 from pymongo import MongoClient
 
 # Replace <db_password> with your actual password
-conn_str = "mongodb+srv://syed_moin:Sm$$9911@mydbcluster.n1bukn1.mongodb.net/?retryWrites=true&w=majority&appName=MyDBCluster"
+
 
 # Connect to MongoDB Atlas
 client = MongoClient(conn_str)
