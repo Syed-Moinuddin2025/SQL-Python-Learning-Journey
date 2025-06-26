@@ -2,6 +2,7 @@ import os
 import json
 import sqlite3
 from datetime import datetime
+import csv
 
 # ✅ Step 1: Get current script's directory
 base_path = os.path.dirname(os.path.abspath(__file__))
@@ -80,7 +81,27 @@ def save_order(customer, order_items):
     conn.commit()
     conn.close()
 
-# ✅ Step 5: Main program
+# ✅ Step 5: Export to CSV
+def export_sales_to_csv(date_str):
+    conn = sqlite3.connect(db_path)
+    cursor = conn.cursor()
+
+    cursor.execute("SELECT * FROM bills WHERE date = ?", (date_str,))
+    rows = cursor.fetchall()
+
+    if rows:
+        csv_file = os.path.join(base_path, f"sales_summary_{date_str}.csv")
+        with open(csv_file, mode="w", newline="", encoding="utf-8") as file:
+            writer = csv.writer(file)
+            writer.writerow(["ID", "Customer", "Item", "Quantity", "Price", "Total", "Date"])
+            writer.writerows(rows)
+        print(f"📝 Sales exported to {csv_file}")
+    else:
+        print("📭 No sales to export today.")
+
+    conn.close()
+
+# ✅ Step 6: Main program
 def main():
     init_db()
     menu = load_menu()
@@ -91,12 +112,11 @@ def main():
     customer = input("Enter your name: ").strip()
     order = []
 
-    # 🎯 Ask user if they want to filter
+    # 🎯 Filter menu
     print("\n🎯 Do you want to filter menu by category?")
     print("1. Show All\n2. Pizza Only\n3. Burger Only\n4. Cold Drink Only\n5. Sides Only\n6. Salads Only\n7. Desserts Only")
     choice = input("Enter your choice (1–7): ")
 
-    # 🎯 Category map for filtering
     filter_map = {
         "2": "Pizza",
         "3": "Burger",
@@ -107,7 +127,6 @@ def main():
     }
     selected_category = filter_map.get(choice)
 
-    # 🧾 Emoji map for printing
     emoji_map = {
         "Pizza": "🍕",
         "Burger": "🍔",
@@ -117,7 +136,6 @@ def main():
         "Dessert": "🍰"
     }
 
-    # ✅ Show menu category-wise
     print("\n📋 Menu:")
     categories_to_show = [selected_category] if selected_category else sorted(set(item["category"] for item in menu))
 
@@ -127,7 +145,6 @@ def main():
             if item["category"] == cat:
                 print(f"  {item['id']:>2}. {item['name']:<20} ₹{item['price']}")
 
-    # ✅ Take order
     while True:
         try:
             item_id = int(input("Enter item ID (0 to finish): "))
@@ -147,7 +164,6 @@ def main():
         except ValueError:
             print("❌ Please enter valid numbers.")
 
-    # ✅ Print and save bill
     if order:
         print(f"\n🧾 Bill for {customer}")
         print("-" * 40)
@@ -161,6 +177,7 @@ def main():
 
         save_order(customer, order)
         print("📦 Bill and summary saved to SQLite3 database.")
+        export_sales_to_csv(datetime.now().strftime("%Y-%m-%d"))
     else:
         print("❌ No items selected.")
 
