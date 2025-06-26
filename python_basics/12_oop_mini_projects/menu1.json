@@ -1,0 +1,25 @@
+[
+    { "id": 1, "name": "Margherita Pizza", "category": "Pizza", "price": 150 },
+    { "id": 2, "name": "Pepperoni Pizza", "category": "Pizza", "price": 220 },
+    { "id": 3, "name": "BBQ Chicken Pizza", "category": "Pizza", "price": 250 },
+    { "id": 4, "name": "Veggie Burger", "category": "Burger", "price": 120 },
+    { "id": 5, "name": "Chicken Burger", "category": "Burger", "price": 140 },
+    { "id": 6, "name": "Beef Burger", "category": "Burger", "price": 160 },
+    { "id": 7, "name": "Coke", "category": "Cold Drink", "price": 40 },
+    { "id": 8, "name": "Sprite", "category": "Cold Drink", "price": 40 },
+    { "id": 9, "name": "Pepsi", "category": "Cold Drink", "price": 40 },
+    { "id": 10, "name": "Paneer Tikka Pizza", "category": "Pizza", "price": 200 },
+    { "id": 11, "name": "Fish Burger", "category": "Burger", "price": 180 },
+    { "id": 12, "name": "Fanta", "category": "Cold Drink", "price": 35 },
+    { "id": 13, "name": "Lemonade", "category": "Cold Drink", "price": 30 },
+    { "id": 14, "name": "Garlic Bread", "category": "Sides", "price": 70 },
+    { "id": 15, "name": "French Fries", "category": "Sides", "price": 60 },
+    { "id": 16, "name": "Onion Rings", "category": "Sides", "price": 80 },
+    { "id": 17, "name": "Caesar Salad", "category": "Salad", "price": 90 },
+    { "id": 18, "name": "Greek Salad", "category": "Salad", "price": 100 },
+    { "id": 19, "name": "Fruit Salad", "category": "Salad", "price": 80 },
+    { "id": 20, "name": "Chocolate Cake", "category": "Dessert", "price": 120 },
+    { "id": 21, "name": "Ice Cream Sundae", "category": "Dessert", "price": 100 },
+    { "id": 22, "name": "Cheesecake", "category": "Dessert", "price": 150 }
+]
+
