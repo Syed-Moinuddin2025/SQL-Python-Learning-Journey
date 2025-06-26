@@ -1,0 +1,11 @@
+{
+    "customer": "raju",
+    "items": [
+        {
+            "name": "Margherita Pizza",
+            "price": 150,
+            "quantity": 1,
+            "total": 150
+        }
+    ]
+}
