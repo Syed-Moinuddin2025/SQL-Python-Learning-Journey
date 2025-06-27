@@ -1,9 +1,4 @@
-SELECT TOP (1000) [employee_id]
-      ,[q1_2022]
-      ,[q2_2022]
-      ,[q3_2022]
-      ,[q4_2022]
-  FROM [EmployeeSalesDB].[dbo].[quarterly_sales]
+SELECT * FROM quarterly_sales
 
 INSERT INTO [EmployeeSalesDB].[dbo].[quarterly_sales] ([employee_id], [q1_2022], [q2_2022], [q3_2022], [q4_2022])
 VALUES 
