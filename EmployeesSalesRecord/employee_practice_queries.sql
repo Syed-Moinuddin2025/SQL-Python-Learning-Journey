@@ -83,11 +83,13 @@ EXEC sp_rename 'employees.salary', 'monthly_salary', 'COLUMN';
 -- 📕 STEP 5: Aggregation + Filtering
 
 -- 22. Get employees with total annual sales > 25000
-SELECT e.first_name, e.last_name,
-       (qs.q1_2022 + qs.q2_2022 + qs.q3_2022 + qs.q4_2022) AS total_sales
+SELECT 
+  e.first_name, 
+  e.last_name,
+  (qs.q1_2022 + qs.q2_2022 + qs.q3_2022 + qs.q4_2022) AS total_sales
 FROM employees e
 JOIN quarterly_sales qs ON e.id = qs.employee_id
-HAVING (qs.q1_2022 + qs.q2_2022 + qs.q3_2022 + qs.q4_2022) > 25000;
+WHERE (qs.q1_2022 + qs.q2_2022 + qs.q3_2022 + qs.q4_2022) > 25000;
 
 -- 23. Group employees by department and count them
 SELECT department, COUNT(*) AS employee_count
