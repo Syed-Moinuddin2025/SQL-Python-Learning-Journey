@@ -26,10 +26,22 @@ END
  (8, 'Produzioni Erepee Associate'),
  (9, 'Buena Vista'),
  (10, 'StudioCanal');
+INSERT INTO d_company(id, company_name)
+ VALUES 
+ (11, '20th Century Fox'),
+ (12, 'Metro-Goldwyn-Mayer'),
+ (13, 'Sony Pictures Classics'),
+ (14, 'DreamWorks Pictures'),
+ (15, 'Focus Features'),
+ (16, 'Lionsgate Films'),
+ (17, 'A24 Films'),
+ (18, 'Searchlight Pictures'),
+ (19, 'Magnolia Pictures'),
+ (20, 'IFC Films');
 
 
 
-SELECT TOP 5 * FROM d_company;
+SELECT  * FROM d_company;
 
 
 
