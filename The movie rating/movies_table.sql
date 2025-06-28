@@ -22,9 +22,7 @@ INSERT INTO movies (id, movie_title, imdb_rating, year_released, budget, box_off
 (7, 'The Lord of the Rings: The Return of the King', 8.9, 2003, 94.00, 1146.00, 6, 'English'),
 (8, 'Pulp Fiction', 8.8, 1994, 8.50, 213.90, 7, 'English'),
 (9, 'The Lord of the Rings: The Fellowship of the Ring', 8.8, 2001, 93.00, 898.20, 6, 'English'),
-(10, 'The Good, the Bad and the Ugly', 8.8, 1966, 1.20, 38.90, 8, 'English, Italian, Spanish');
-
-INSERT INTO movies (id, movie_title, imdb_rating, year_released, budget, box_office, d_company_id, language) VALUES 
+(10, 'The Good, the Bad and the Ugly', 8.8, 1966, 1.20, 38.90, 8, 'English, Italian, Spanish'),
 (11, 'Fight Club', 8.8, 1999, 63.00, 100.90, 9, 'English'),
 (12, 'Forrest Gump', 8.8, 1994, 55.00, 678.20, 10, 'English'),
 (13, 'Inception', 8.7, 2010, 160.00, 836.80, 1, 'English'),
@@ -34,9 +32,7 @@ INSERT INTO movies (id, movie_title, imdb_rating, year_released, budget, box_off
 (17, 'The Lord of the Rings: The Two Towers', 8.7, 2002, 94.00, 926.30, 6, 'English'),
 (18, 'One Flew Over the Cuckoo''s Nest', 8.7, 1975, 3.00, 108.70, 7, 'English'),
 (19, 'Se7en', 8.6, 1995, 33.00, 327.30, 8, 'English'),
-(20, 'City of God', 8.6, 2002, 3.30, 30.60, 9, 'Portuguese');   
- 
- INSERT INTO movies (id, movie_title, imdb_rating, year_released, budget, box_office, d_company_id, language) VALUES
+(20, 'City of God', 8.6, 2002, 3.30, 30.60, 9, 'Portuguese'),
 (21, 'The Silence of the Lambs', 8.6, 1991, 19.00, 272.70, 10, 'English'),  
 (22, 'It''s a Wonderful Life', 8.6, 1946 , 3.18, 3.30, 1, 'English'),
 (23, 'Life Is Beautiful', 8.6, 1997, 20.00, 229.20, 2, 'Italian'),
