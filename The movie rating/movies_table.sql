@@ -63,3 +63,10 @@ WHERE id = 10;
 UPDATE movies
 SET movie_title = 'The Godfather Part II'
 WHERE id = 4;
+
+UPDATE movies
+SET imdb_rating = 8.5
+WHERE id = 11;
+
+SELECT *
+FROM movies
