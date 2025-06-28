@@ -57,3 +57,13 @@ SELECT TOP 20
 FROM movies m
 JOIN d_company d ON m.d_company_id = d.id
 ORDER BY m.year_released;
+
+ALTER TABLE movies
+ADD CONSTRAINT fk_movies_d_company
+FOREIGN KEY (d_company_id)
+REFERENCES d_company(id);
+
+
+SELECT DISTINCT d_company_id
+FROM movies
+WHERE d_company_id NOT IN (SELECT id FROM d_company);
