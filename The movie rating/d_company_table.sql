@@ -25,9 +25,7 @@ END
  (7,'Miramax Film'),
  (8, 'Produzioni Erepee Associate'),
  (9, 'Buena Vista'),
- (10, 'StudioCanal');
-INSERT INTO d_company(id, company_name)
- VALUES 
+ (10, 'StudioCanal'),
  (11, '20th Century Fox'),
  (12, 'Metro-Goldwyn-Mayer'),
  (13, 'Sony Pictures Classics'),
