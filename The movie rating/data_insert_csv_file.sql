@@ -1,7 +1,7 @@
  TRUNCATE TABLE d_company;
  TRUNCATE TABLE movies;    
 
- ALTER TABLE movies
+ALTER TABLE movies
 DROP CONSTRAINT FK_d_company_id;
 
 USE MovieRating;
