@@ -1,3 +1,6 @@
+IF OBJECT_ID('movies', 'U') IS NOT NULL
+    DROP TABLE movies;
+
 CREATE TABLE movies (
     id INT PRIMARY KEY,
     movie_title VARCHAR(200) NOT NULL,
@@ -65,4 +68,6 @@ INSERT INTO movies (id, movie_title, imdb_rating, year_released, budget, box_off
 (50,'The Lives of Others',8.4 ,2006 ,2.00 ,77.70 ,46,'German');
  
 
- 
+ SELECT * FROM movies;
+
+ SELECT * FROM movies ORDER BY imdb_rating DESC;

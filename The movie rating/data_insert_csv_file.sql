@@ -81,11 +81,34 @@ WITH (
 );
 
 BULK INSERT movies
-FROM 'D:\SQL-Python_Journey\The movie rating\clean_movies_data_no_quotes.csv'
+FROM 'D:\SQL-Python_Journey\The movie rating\movies_data.csv'
 WITH (
     FIRSTROW = 2,
     FIELDTERMINATOR = ',',
     ROWTERMINATOR = '0x0a',
     TABLOCK,
     ERRORFILE = 'D:\SQL-Python_Journey\movie_errors.log'
+);
+
+CREATE TABLE movies_data (
+    id INT,
+    movie_title VARCHAR(255),
+    year_released INT,
+    budget FLOAT,
+    box_office FLOAT,
+    d_company_id INT,
+    language VARCHAR(255),
+    imdb_rating FLOAT
+);
+
+SELECT *
+FROM movies_data;
+
+BULK INSERT movies_data
+FROM 'D:\SQL-Python_Journey\The movie rating\movies_data.csv'
+WITH (
+    FIRSTROW = 2,
+    FIELDTERMINATOR = ',',
+    ROWTERMINATOR = '0x0a',
+    TABLOCK
 );
