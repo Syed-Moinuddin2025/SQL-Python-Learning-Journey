@@ -29,7 +29,7 @@ END
 
 
 
-SELECT * FROM d_company;
+SELECT TOP 5 * FROM d_company;
 
 
 
