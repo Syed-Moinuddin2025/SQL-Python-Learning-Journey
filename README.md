@@ -1,9 +1,8 @@
 # 📊 **SQL-Python-Learning-Journey**
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/main/Images/Image123.png" alt="SQL-Python Banner" width="1000" height="600">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/Images/image1234.png" alt="Python-Learning Banner" width="1000" height="600">
 </div>
-
  
 ## Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
 
