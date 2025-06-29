@@ -1,127 +1,97 @@
-# 📊 **SQL-Python-Learning-Journey**
+# 🐍 **Python-Learning-Journey**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/Images/image1234.png" alt="Python-Learning Banner" width="1000" height="600">
 </div>
- 
-## Welcome to **LearnSQLWithProjects** — a hands-on learning repo for practicing SQL queries with real-world scenarios.
-
-## This repository is ideal for:
-- ### 🧑‍💻 SQL beginners building practical experience  
-- ### 📊 Data entry clerks, analysts, or aspiring database developers  
-- ### 💼 Job seekers preparing for interviews using SSMS or Azure Data Studio  
 
 ---
 
-# 📁 All Projects Step By Step
+## 🧑‍💻 About This Repository
 
-## [📁 Project1_Inventory](./Project1_Inventory)
+Welcome to my Python learning journey! This repository is dedicated to practicing and mastering Python programming through structured lessons and projects.
 
-A mini inventory system featuring Categories and Products tables — perfect for practicing foundational SQL skills including joins, filters, and aggregations.
+It is ideal for:
 
-What you’ll learn:
-
-Designing normalized tables with primary and foreign keys
-
-Inserting and managing sample data
-
-Writing essential queries using SELECT, JOIN, WHERE, and aggregate functions like SUM, AVG, COUNT
+* ✅ Python beginners
+* 🧠 Self-learners looking for hands-on exercises
+* 💼 Anyone preparing for interviews or coding challenges
 
 ---
 
-## Included Files:
-- [`01_create_tables.sql`](./Project1_Inventory/01_create_tables.sql)
-- [`02_insert_data.sql`](./Project1_Inventory/02_insert_data.sql)
-- [`03_basic_queries.sql`](./Project1_Inventory/03_basic_queries.sql)
-- [`04_Basic_Inventory_Queries_Result.ipynb`](./Project1_Inventory/04_Basic_Inventory_Queries_Result.ipynb)
-- [`Readme.md`](./Project1_Inventory/Readme.md)
+## 📘 Python Topics Covered
+
+Each lesson comes with simple explanations, hands-on examples, and assignments.
+
+* ✅ Python syntax & `print()` statements
+* ✅ Variables, data types, and operators
+* ✅ Conditional statements and loops
+* ✅ Functions, lists, tuples, dictionaries
+* ✅ File handling and basic error handling
+* ✅ Object-Oriented Programming (OOP)
+* ✅ Working with JSON, CSV, and external files
 
 ---
 
-### [📁 Project2_EmployeeRecords](./Project2_EmployeeRecords)
-📌 Status ✅ Completed: Schema, data, queries, and notebook
+## 📂 Repository Structure
 
-## Project Files – Employee Records Module
-This section contains all the SQL scripts and resources used in this module. Follow the files in sequence:
-- 📄 [01_create_tables.sql](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/01_create_tables.sql)  
-- 📄 [02_insert_data.sql](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/02_insert_data.sql)  
-- 📄 [03_basic_queries.sql](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/03_basic_queries.sql)  
-- 📄 [04_intermediate_queries.sql](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/04_intermediate_queries.sql)  
-- 🧾 [05_Employee_Queries_Result.ipynb](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/05_Employee_Queries_Result.ipynb)  
-- 📘 [README.md](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Project2_EmployeeRecords/README.md)
-- 
-🚧 Next Steps: Advanced HR reports (attendance, promotions)
-
-
-## 🙌 Contribute or Connect
-#### If you'd like to contribute more query ideas or request a new feature, feel free to raise an issue or fork this repo.
-
-## 🐍 Python for Beginners
-### Explore my step-by-step learning journey in Python! 
-📌 Python Basics – Step by Step
-I'm learning Python from scratch with hands-on practice.
-Each lesson includes short explanations, examples
-### 👉 [Complete Python for Beginners](https://github.com/Syed-Moinuddin2025/SQL-Python-Learning-Journey/tree/main/python_basics)
-
-This beginner-friendly series starts from absolute basics like:
-- ✅ Python syntax & `print()` statements  
-- ✅ Variables, data types, and operators  
-- ✅ Conditional statements and loops  
-- ✅ Functions, lists, and dictionaries  
-- ✅ File handling and basic error handling  
-- ✅ And much more coming soon!
-
-📘 All lessons are written with simple explanations and examples in  VS Code ,perfect for practice in Jupyter Notebook or VS Code with Python extension.
-### 🎥 Watch on YouTube Community Posts
- Follow my Python learning journey with visual explanations:
- 
-🔗 Post 1: Complete Python for Beginners in Hindi – [Part 1 ](http://youtube.com/post/Ugkx8_eBVX3Y5S1jkLm22Sidf41HgMxOHZ3m?si=SD1LPZ76D7GNBQWp)
-
-🔗 Post 2: Complete Python for Beginners in Hindi –[ Part 2](http://youtube.com/post/UgkxCfxe0uB8kFyyxpuN-vyKnnN5A54uUy-n?si=y3PCtqo7yFsIvogo)
+* `python_basics/` – Intro lessons and exercises
+* `file_handling/` – Practice with reading/writing files
+* `10_python_projects/` – Mini projects with real-world scenarios
+* `oop_lessons/` – Object-Oriented Programming explained step-by-step
+* `sqlite_apps/` – Python + SQLite3-based apps
 
 ---
- ## 🔔 Don’t forget to check out [Project 1: Mini Inventory](./Project1_Inventory)
 
- 
-  🔜 Coming soon: Project 3 – Sales Analytics Dashboard
+## ▶️ YouTube Posts & Visuals
 
-  ---
-  
+Follow my Python journey with videos and community posts:
 
-### 🚧 [📁 Project3_SalesAnalytics](./Project3_SalesAnalytics)
+🔗 [Part 1: Python for Beginners in Hindi](http://youtube.com/post/Ugkx8_eBVX3Y5S1jkLm22Sidf41HgMxOHZ3m?si=SD1LPZ76D7GNBQWp)
 
-**Coming soon:** Sales analytics project involving KPIs, time-based queries, and aggregation.
+🔗 [Part 2: Python for Beginners in Hindi](http://youtube.com/post/UgkxCfxe0uB8kFyyxpuN-vyKnnN5A54uUy-n?si=y3PCtqo7yFsIvogo)
+
+---
+
+## 🤝 How You Can Contribute
+
+Feel free to:
+
+* 🛠 Suggest beginner projects
+* 🧪 Submit exercises or error-handling examples
+* ⭐ Star this repo to show support
 
 ---
 
 ## ☕ Support My Work
 
-#### If this project helps you learn or build something cool, consider supporting my work!  
-#### Your support keeps me motivated and helps me continue sharing quality content. 🙌
+If this helped you in any way, consider supporting:
 
-UPI ID: 9701362151@kotak811
+**UPI:** `9701362151@kotak811`
 
-[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)  
+[![Buy Me a Coffee](https://img.shields.io/badge/☕-Buy_Me_A_Coffee-yellow?style=flat-square)](https://coff.ee/syedmoin)
+
 [![PayPal](https://img.shields.io/badge/💰-Donate_via_PayPal-blue?style=flat-square)](https://paypal.me/syedmoinuddin101)
 
 ---
 
 ## 🛠 Tools Used
-![SQL & Azure Projects](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Images/Sql%26Azur.png?raw=true)
 
-- **SQL Server Management Studio (SSMS)**  
-- **Azure Data Studio**  
-- **Git & GitHub** for version control  
+* **Python 3.x**
+* **VS Code with Python extension**
+* **Jupyter Notebook**
+* **Git & GitHub** for version control
 
 ---
 
 ## 📬 Contact
 
-For suggestions, questions, or collaboration, feel free to reach out:
+For questions, ideas, or collaboration:
 
 **GitHub**: [Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)
 
 ---
 
-> ⚡ Stay tuned for more hands-on SQL projects and advanced tutorials!
+> 🚀 Stay tuned for more Python lessons and mini-projects!
+
+---
 
