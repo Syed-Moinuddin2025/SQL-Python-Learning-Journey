@@ -1,8 +1,6 @@
 # 🐍 **Python-Learning-Journey**
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/Images/image1234.png" alt="Python-Learning Banner" width="1000" height="600">
-</div>
+![Python-Learning Banner](https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/main/Images/image1234.png)
 
 ---
 
@@ -94,4 +92,3 @@ For questions, ideas, or collaboration:
 > 🚀 Stay tuned for more Python lessons and mini-projects!
 
 ---
-
