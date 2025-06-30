@@ -1,96 +1,80 @@
-## 🖼 Project Preview
+🐍 Python Practice Project
 
-![Python SQL Project](https://github.com/Syed-Moinuddin2025/LearnSQLWithProjects/blob/main/Python_SQL_Practice/Images/Py_Sql.png)
 
-# 👋 Welcome SQL + Python Lover
+👋 Welcome Python Learner
+This project is a step-by-step Python practice journey — from beginner to intermediate level — designed to help you build a solid foundation in Python programming with clean, simple code examples.
 
-This project is a beginner-to-intermediate level practice setup that demonstrates how to use **Python** with **SQL Server** for real-world database automation tasks like inserting, retrieving, and managing employee data.
-
----
-
-## 📁 Project Structure
-
-Python_SQL_Practice/
+📁 Folder Structure
+bash
+Copy
+Edit
+python_practice/
 │
-├── Python_SQL_Practice_DB.sql # SQL script to create & populate database
+├── 01_hello_world.py            # Basic print statement
+├── 02_variables_and_types.py    # Data types and variables
+├── 03_if_else.py                # Conditional statements
+├── 04_loops.py                  # For and while loops
+├── 05_functions.py              # Defining and using functions
+├── 06_lists_and_tuples.py       # Working with collections
+├── 07_dictionaries.py           # Key-value pairs
+├── 08_file_handling.py          # Read/write text files
+├── 09_oop_basics.py             # Classes and objects
+└── README.md                    # You're here!
+🧠 What You'll Learn
+✅ Python syntax and indentation
 
-├── insert_data.py # Python script to insert records into SQL Server
+✅ Variables, data types, and operators
 
-├── fetch_data.py # (Optional) Python script to fetch and display data
+✅ Loops, conditions, and functions
 
-├── export_to_csv.py # (Optional) Exports SQL tables to CSV files
+✅ File handling (text/CSV)
 
-├── README.md 
+✅ Object-oriented programming (OOP)
 
+🔧 Tools Required
+Python 3.11+
 
----
+VS Code or Jupyter Notebook (optional)
 
-## 🧠 What You Will Learn
+No external libraries needed for core practice
 
-- Connecting Python to SQL Server using `pyodbc`
-- Writing SQL `CREATE TABLE`, `INSERT`, and `SELECT` queries
-- Managing relational data: Employees, Departments, Designations, Salaries
-- Exporting and importing data via CSV
-- Writing clean, modular Python scripts for database operations
+🚀 How to Use
+Clone or download the repo
 
----
+Open folder in VS Code
 
-## 🔗 Tools Used
+Run files step by step:
 
-- **SQL Server**
-- **Python 3.11+**
-- **VS Code** / Azure Data Studio
-- **Libraries:** `pandas`, `pyodbc`
+bash
+Copy
+Edit
+python 01_hello_world.py
+python 02_variables_and_types.py
+# and so on...
+✅ Progress Tracker
+Lesson	Topic	Status
+01	Hello World	✅ Done
+02	Variables & Types	✅ Done
+03	If-Else Conditions	✅ Done
+04	Loops	✅ Done
+05	Functions	✅ Done
+06	Lists & Tuples	✅ Done
+07	Dictionaries	✅ Done
+08	File Handling	✅ Done
+09	OOP Basics	🔄 In Progress
 
----
+🎯 Upcoming Lessons
+Error handling with try-except
 
-## 🛠 Setup Instructions
+Modules and imports
 
-1. 📦 Install required Python packages:
-    ```bash
-    pip install pandas pyodbc
-    ```
+Mini-projects (calculator, contact book, to-do list)
 
-2. 🧱 Run the SQL script `Python_SQL_Practice_DB.sql` in SQL Server to set up the database.
+Working with CSV and JSON
 
-3. 🐍 Run the Python script:
-    ```bash
-    python insert_data.py
-    ```
+GUI (Tkinter or CLI menus)
 
+📬 Stay Connected
+🔗 GitHub: @Syed-Moinuddin2025
 
-
----
-
-## ✅ What's Working
-
-- ✅ Database created successfully
-- ✅ Sample data inserted using Python
-- ✅ CSV import/export support (optional)
-- ✅ Easy-to-follow structure for beginners
-
----
-
-## 📌 Future Enhancements
-
-- Menu-based CLI for all DB operations
-- Web interface (Flask or Streamlit) to interact with the database
-- Data visualization of salary stats
-
----
-
-## 🤝 Contributions
-
-If you're learning Python + SQL or want to extend the project, feel free to fork and contribute!
-
----
-
-## 📬 Contact
-
-Follow more SQL projects and learning materials on:
-
-- GitHub: [@Syed-Moinuddin2025](https://github.com/Syed-Moinuddin2025)
-- YouTube: [Learn More and Earn More](https://www.youtube.com/@Learn_More-and-Earn_More-Syed)
-
----
-
+📺 YouTube: Learn More and Earn More – Syed
