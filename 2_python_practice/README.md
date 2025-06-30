@@ -76,6 +76,6 @@ GUI (Tkinter or command-line interfaces)
 📬 Stay Connected
 GitHub: Syed-Moinuddin2025
 
-YouTube: Learn More and Earn More
+YouTube: YouTube: Learn More and Earn More – Syed
 
 ⭐ Keep practicing, one file at a time!
