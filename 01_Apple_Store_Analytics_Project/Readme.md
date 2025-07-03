@@ -1,5 +1,7 @@
 # 🍏 AppleStore Analysis
-
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/sql-learning-journey/main/images/image56.png" alt="SQL Learning Banner" width="800" height="auto">
+</div>
 A data analytics project based on sales, product, and warranty data of Apple Stores across multiple countries. This project performs exploratory data analysis (EDA), derives business insights, and answers key performance questions using Python and pandas.
 
 ---
