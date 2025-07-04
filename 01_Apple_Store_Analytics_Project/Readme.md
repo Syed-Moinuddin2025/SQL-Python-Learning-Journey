@@ -1,4 +1,4 @@
-# 🍏 AppleStore Analysis
+# 🍏 Apple Store Analysis
 <div align="center">
   <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/sql-learning-journey/main/images/image56.png" alt="SQL Learning Banner" width="800" height="auto">
 </div>
