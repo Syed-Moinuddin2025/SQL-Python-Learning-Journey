@@ -41,7 +41,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 246,156,229,1,326.0,04/07/2024,Paid Repaired,iPad 5th Gen,3,24/03/2017,329,Tablets,Apple Store Milwaukee,Milwaukee,United States,329,2024-07-14
 247,50,124,2,,,,MacBook Air M1,2,17/11/2020,999,Laptops,Apple Store Lagos,Lagos,Nigeria,1998,2021-03-09
 248,178,106,4,,,,MacBook Air M2,2,15/07/2022,1199,Laptops,Apple Store Gilbert,Gilbert,United States,4796,2020-11-03
-249,59,198,6,327.0,,Warranty Void,Apple Watch HermÃÂ¨s,4,22/09/2023,1349,Accessories,Apple Store Beirut,Beirut,Lebanon,8094,2023-06-30
+249,59,198,6,327.0,,Warranty Void,Apple Watch Hermès,4,22/09/2023,1349,Accessories,Apple Store Beirut,Beirut,Lebanon,8094,2023-06-30
 250,29,117,3,,,,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store Stockholm,Stockholm,Sweden,1347,2022-07-15
 251,245,210,1,328.0,02/10/2023,Rejected,Apple Watch Explorer Edition,4,25/09/2025,949,Accessories,Apple Store Toledo,Toledo,United States,949,2023-10-08
 253,118,174,3,,,,Magic Trackpad 2,4,04/05/2020,129,Accessories,Apple Store Columbus,Columbus,United States,387,2022-11-22
@@ -125,7 +125,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 356,93,307,2,377.0,,Warranty Void,iPhone Air SE,1,09/12/2025,729,Smartphones,Apple Store Dubai Mall,Dubai,UAE,1458,2025-04-10
 357,83,132,2,,,,Mac Mini M2,2,24/01/2023,699,Laptops,Apple Store Luxembourg City,Luxembourg City,Luxembourg,1398,2021-01-30
 358,26,290,5,378.0,08/04/2023,Rejected,Apple Watch Core,4,20/12/2025,599,Accessories,Apple Store Helsinki,Helsinki,Finland,2995,2025-05-21
-359,62,198,3,379.0,09/06/2025,In Progress,Apple Watch HermÃÂ¨s,4,22/09/2023,1349,Accessories,Apple Store Baku,Baku,Azerbaijan,4047,2023-02-11
+359,62,198,3,379.0,09/06/2025,In Progress,Apple Watch Hermès,4,22/09/2023,1349,Accessories,Apple Store Baku,Baku,Azerbaijan,4047,2023-02-11
 364,66,221,2,382.0,06/05/2023,Rejected,iPad Lite,3,11/11/2022,349,Tablets,Apple Store Ho Chi Minh City,Ho Chi Minh City,Vietnam,698,2023-07-05
 365,298,276,4,,,,MacBook SE Air Pro,2,12/10/2025,1499,Laptops,Apple Store Rancho Cucamonga,Rancho Cucamonga,United States,5996,2025-02-19
 367,218,138,1,,,,Apple Smart Keyboard,4,21/05/2019,159,Accessories,Apple Store Lubbock West,Lubbock,United States,159,2023-06-01
@@ -184,7 +184,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 475,104,243,4,,,,iPhone 16,1,24/09/2025,1099,Smartphones,Apple Store Wellington,Wellington,New Zealand,4396,2023-08-04
 476,197,158,3,,,,Apple Pencil USB-C,4,17/10/2023,79,Accessories,Apple Store Hialeah West,Hialeah,United States,237,2024-10-27
 477,84,110,1,,,,MacBook Air M1,2,17/11/2020,999,Laptops,Apple Store Monaco,Monaco,Monaco,999,2021-05-18
-479,139,198,3,,,,Apple Watch HermÃÂ¨s,4,22/09/2023,1349,Accessories,Apple Store Mesa,Mesa,United States,4047,2023-09-13
+479,139,198,3,,,,Apple Watch Hermès,4,22/09/2023,1349,Accessories,Apple Store Mesa,Mesa,United States,4047,2023-09-13
 480,234,226,1,,,,Apple Watch Edition Ceramic,4,20/09/2019,1249,Accessories,Apple Store Boise North,Boise,United States,1249,2024-05-12
 483,190,282,4,,,,Apple Watch Bolt,4,28/10/2025,649,Accessories,Apple Store Laredo,Laredo,United States,2596,2025-03-22
 485,288,239,5,,,,iPhone 13 SE,1,09/09/2022,649,Smartphones,Apple Store Mobile,Mobile,United States,3245,2023-06-29
@@ -215,7 +215,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 530,416,216,1,,,,AirPods Max,4,15/12/2020,549,Audio,Apple Store Passeig De Grã Cia,Barcelona,Spain,549,2024-06-30
 531,417,217,3,1017.0,,In Process,iPad Air 5,3,18/03/2022,749,Tablets,Apple Store Mall Of Berlin,Berlin,Germany,2247,2024-06-01
 533,419,219,1,1019.0,,Replaced,Mac Mini M2,2,17/01/2023,699,Laptops,Apple Store Kanyon Mall,Istanbul,Turkey,699,2024-06-03
-534,420,220,4,,,,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Bahnhofstrasse,Zã¼Rich,Switzerland,3196,2024-06-04
+534,420,220,4,,,,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Bahnhofstrasse,Zã1⁄4Rich,Switzerland,3196,2024-06-04
 535,421,221,1,,,,iPad Air 5,3,18/03/2022,749,Tablets,Apple Store Cologne,Bonn,Germany,749,2024-06-05
 536,422,222,2,1022.0,,Repaired,iPhone 13 Mini,1,24/09/2021,699,Smartphones,Apple Store Florence,Florence,Italy,1398,2024-06-06
 538,424,224,4,,,,AirPods Pro 2,4,23/09/2022,249,Audio,Apple Store Lille,Lille,France,996,2024-06-08
@@ -223,7 +223,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 540,426,226,1,,,,iPhone 15 Pro Max,1,22/09/2023,1199,Smartphones,Apple Store Shinsaibashi,Osaka,Japan,1199,2024-06-10
 541,427,227,2,1027.0,,Repaired,Mac Mini M2,2,17/01/2023,699,Laptops,Apple Store Via Del Corso,Rome,Italy,1398,2024-06-11
 542,428,228,3,,,,AirPods Max,4,15/12/2020,549,Audio,Apple Store Frankfurt Zeil,Frankfurt,Germany,1647,2024-06-12
-543,429,229,5,,,,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store Zã1⁄4Rich Bahnhofstrasse,Zã¼Rich,Switzerland,2245,2024-06-13
+543,429,229,5,,,,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store Zã1⁄4Rich Bahnhofstrasse,Zã1⁄4Rich,Switzerland,2245,2024-06-13
 544,430,230,1,1030.0,02/07/2024,In Process,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Harrods,London,United Kingdom,799,2024-06-14
 545,431,231,2,,,,iPhone SE 3,1,08/03/2022,429,Smartphones,Apple Store Akihabara,Tokyo,Japan,858,2024-06-15
 546,432,232,3,1032.0,04/07/2024,Repaired,MacBook Air M3,2,07/11/2023,1299,Laptops,Apple Store Antwerp,Antwerp,Belgium,3897,2024-06-16
