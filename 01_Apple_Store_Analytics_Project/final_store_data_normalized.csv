@@ -5,7 +5,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 204,4,104,3,,,,Apple Watch Series 7,4,15/10/2021,399,Accessories,Apple Store Tokyo,Tokyo,Japan,1197,2023-12-15
 206,5,105,4,303.0,,Paid Repaired,iPhone 14 Pro,1,16/09/2022,999,Smartphones,Apple Store Sydney,Sydney,Australia,3996,2022-10-10
 210,21,120,2,306.0,05/08/2023,Paid Repaired,"MacBook Pro M2 14""",2,17/01/2023,1999,Laptops,Apple Store Vienna,Vienna,Austria,3998,2024-03-01
-211,14,189,1,307.0,,In Progress,iPad Air 2,3,22/10/2014,399,Tablets,Apple Store SÃÂ£o Paulo,SÃÂ£o Paulo,Brazil,399,2023-12-15
+211,14,189,1,307.0,,In Progress,iPad Air 2,3,22/10/2014,399,Tablets,Apple Store SãÂ£O Paulo,SãÂ£O Paulo,Brazil,399,2023-12-15
 212,65,213,4,,,,"iPad 10.9""",3,17/10/2023,449,Tablets,Apple Store Jakarta,Jakarta,Indonesia,1796,2022-06-10
 213,88,277,3,308.0,,Paid Repaired,iPad Explore,3,08/11/2025,749,Tablets,Apple Store Zagreb,Zagreb,Croatia,2247,2025-01-05
 214,100,141,2,,,,iPad Mini 5,3,18/03/2019,399,Tablets,Apple Store Canberra,Canberra,Australia,798,2021-11-20
@@ -54,7 +54,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 260,184,137,2,,,,"iPad Pro 11""",3,07/11/2018,799,Tablets,Apple Store Scottsdale,Scottsdale,United States,1598,2022-02-25
 261,30,208,2,332.0,10/08/2024,Paid Repaired,MacBook Air M2 Classic,2,10/02/2023,1249,Laptops,Apple Store Budapest,Budapest,Hungary,2498,2021-12-11
 262,121,298,5,,,,Apple Watch Summit,4,24/11/2025,949,Accessories,Apple Store Indianapolis,Indianapolis,United States,4745,2024-01-25
-263,85,201,3,333.0,01/02/2025,In Progress,iPad Classic (2025),3,10/10/2025,499,Tablets,Apple Store Andorra la Vella,Andorra la Vella,Andorra,1497,2023-03-14
+263,85,201,3,333.0,01/02/2025,In Progress,iPad Classic (2025),3,10/10/2025,499,Tablets,Apple Store Andorra La Vella,Andorra La Vella,Andorra,1497,2023-03-14
 264,164,248,4,,,,MacBook Go,2,15/10/2023,999,Laptops,Apple Store Wichita,Wichita,United States,3996,2024-08-01
 265,12,169,2,,,,iPad Air M2,3,01/06/2024,699,Tablets,Apple Store Barcelona,Barcelona,Spain,1398,2022-09-29
 266,97,309,6,334.0,04/11/2022,Rejected,iPad Solar,3,30/10/2025,769,Tablets,Apple Store Bridgetown,Bridgetown,Barbados,4614,2025-06-18
@@ -72,7 +72,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 279,150,304,6,340.0,,Warranty Void,MacBook Zenith,2,08/11/2025,2299,Laptops,Apple Store Cleveland,Cleveland,United States,13794,2023-05-09
 280,260,241,2,,,,iPad Creative,3,01/09/2024,699,Tablets,Apple Store Reno South,Reno,United States,1398,2023-11-18
 284,75,263,2,,,,iPhone 16 Pro Max,1,05/10/2025,1299,Smartphones,Apple Store Tashkent,Tashkent,Uzbekistan,2598,2023-12-06
-286,193,278,5,,,,Apple Watch Vapor,4,17/11/2025,699,Accessories,Apple Store WinstonÃ¢ÂÂSalem,WinstonSalem,United States,3495,2024-02-10
+286,193,278,5,,,,Apple Watch Vapor,4,17/11/2025,699,Accessories,Apple Store Winstonã¢ÂÂSalem,Winstonsalem,United States,3495,2024-02-10
 287,168,199,3,,,,iPhone 8 Plus,1,22/09/2017,699,Smartphones,Apple Store Aurora,Aurora,United States,2097,2022-03-19
 289,239,220,2,,,,"MacBook Classic 14""",2,01/12/2023,1149,Laptops,Apple Store Anchorage,Anchorage,United States,2298,2023-04-05
 290,24,303,1,345.0,,In Progress,iPhone X Ultra,1,17/10/2025,1399,Smartphones,Apple Store Prague,Prague,Czech Republic,1399,2024-09-01
@@ -114,7 +114,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 341,278,252,5,,,,MacBook Slim,2,20/12/2024,1199,Laptops,Apple Store Bridgeport,Bridgeport,United States,5995,2024-02-15
 342,143,161,2,369.0,06/06/2022,In Progress,"iPad Pro M4 13""",3,15/05/2025,1299,Tablets,Apple Store Colorado Springs,Colorado Springs,United States,2598,2022-04-11
 343,27,304,1,,,,MacBook Zenith,2,08/11/2025,2299,Laptops,Apple Store Oslo,Oslo,Norway,2299,2025-01-18
-344,225,183,3,370.0,,Rejected,iPhone 15 Pro,1,22/09/2023,1099,Smartphones,Apple Store WinstonÃ¢ÂÂSalem West,WinstonÃ¢ÂÂSalem,United States,3297,2023-12-05
+344,225,183,3,370.0,,Rejected,iPhone 15 Pro,1,22/09/2023,1099,Smartphones,Apple Store Winstonã¢ÂÂSalem West,Winstonã¢ÂÂSalem,United States,3297,2023-12-05
 346,137,289,4,371.0,08/07/2024,Paid Repaired,iPad VisionAir,3,04/12/2025,899,Tablets,Apple Store Tucson,Tucson,United States,3596,2025-02-09
 347,195,129,2,,,,iPad Mini 7,3,28/09/2024,529,Tablets,Apple Store Glendale,Glendale,United States,1058,2021-06-07
 348,180,262,5,372.0,,Warranty Void,Apple Watch Titan Edition,4,30/09/2025,1199,Accessories,Apple Store Hialeah,Hialeah,United States,5995,2023-03-21
@@ -161,7 +161,7 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 422,31,284,4,,,,MacBook Sky,2,30/09/2025,1399,Laptops,Apple Store Dublin,Dublin,Ireland,5596,2024-06-08
 425,148,173,1,,,,"iPad Pro 10.5""",3,13/06/2017,649,Tablets,Apple Store Tampa,Tampa,United States,649,2022-09-14
 426,273,301,5,,,,iPad Aurora,3,05/12/2025,849,Tablets,Apple Store Tempe,Tempe,United States,4245,2025-04-18
-427,96,190,2,,,,Apple Magic Keyboard iPad Pro,4,21/04/2021,299,Accessories,Apple Store Port of Spain,Port of Spain,Trinidad and Tobago,598,2023-12-21
+427,96,190,2,,,,Apple Magic Keyboard iPad Pro,4,21/04/2021,299,Accessories,Apple Store Port Of Spain,Port Of Spain,Trinidad and Tobago,598,2023-12-21
 428,22,141,3,,,,iPad Mini 5,3,18/03/2019,399,Tablets,Apple Store Brussels,Brussels,Belgium,1197,2024-03-10
 430,177,293,4,,,,iPad Express,3,05/10/2025,549,Tablets,Apple Store Tacoma,Tacoma,United States,2196,2025-06-10
 431,81,221,2,,,,iPad Lite,3,11/11/2022,349,Tablets,Apple Store Market Mall,Calgary,Canada,698,2023-10-13
@@ -199,31 +199,31 @@ sale_id,store_id,product_id,quantity,claim_id,claim_date,repair_status,product_n
 514,313,116,5,,,,AirPods Pro 2,4,23/09/2022,249,Audio,Apple Store Phoenix Marketcity,Mumbai,India,1245,2024-06-14
 515,401,201,2,,,,iPhone 14 Pro,1,16/09/2022,1099,Smartphones,Apple Store Oxford Street,London,United Kingdom,2198,2024-06-15
 516,402,202,1,1001.0,04/06/2024,Repaired,MacBook Pro 14,2,18/01/2023,1999,Laptops,Apple Store Shibuya Crossing,Tokyo,Japan,1999,2024-06-16
-517,403,203,3,,,,AirPods Pro 2,4,23/09/2022,249,Audio,Apple Store Champs-ÃlysÃ©es,Paris,France,747,2024-06-17
+517,403,203,3,,,,AirPods Pro 2,4,23/09/2022,249,Audio,Apple Store Champs-ÃLysã©Es,Paris,France,747,2024-06-17
 518,404,204,2,1004.0,06/06/2024,Replaced,Apple Watch Series 9,4,15/09/2023,399,Wearables,Apple Store Ginza,Tokyo,Japan,798,2024-06-18
 519,405,205,1,,,,iPad Mini 6,3,24/09/2021,499,Tablets,Apple Store Regent Street,London,United Kingdom,499,2024-06-19
 520,406,206,4,,,,iPhone 15,1,22/09/2023,999,Smartphones,Apple Store La Maquinista,Barcelona,Spain,3996,2024-06-20
 521,407,207,2,1007.0,09/06/2024,Repaired,MacBook Air M2,2,18/07/2022,1199,Laptops,Apple Store Kyoto,Yokohama,Japan,2398,2024-06-21
-522,408,208,5,,,,AirPods 3,4,26/10/2021,179,Audio,Apple Store KurfÃ¼rstendamm,Berlin,Germany,895,2024-06-22
+522,408,208,5,,,,AirPods 3,4,26/10/2021,179,Audio,Apple Store Kurfã1⁄4Rstendamm,Berlin,Germany,895,2024-06-22
 523,409,209,1,1009.0,11/06/2024,In Process,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store Lyon Part-Dieu,Lyon,France,449,2024-06-23
 524,410,210,3,,,,Apple Watch SE,4,16/09/2022,249,Wearables,Apple Store Covent Garden,London,United Kingdom,747,2024-06-24
 525,411,211,2,1011.0,,Repaired,iPhone 13,1,24/09/2021,899,Smartphones,Apple Store Omotesand?,Tokyo,Japan,1798,2024-06-25
 526,412,212,1,,,,Mac Studio,2,18/03/2022,1999,Laptops,Apple Store Rue Sainte-Catherine,Bordeaux,France,1999,2024-06-26
-527,413,213,2,1013.0,,Replaced,iPad Pro 11,3,26/10/2022,799,Tablets,Apple Store Carrousel du Louvre,Paris,France,1598,2024-06-27
+527,413,213,2,1013.0,,Replaced,iPad Pro 11,3,26/10/2022,799,Tablets,Apple Store Carrousel Du Louvre,Paris,France,1598,2024-06-27
 528,414,214,4,,,,iPhone SE 3,1,08/03/2022,429,Smartphones,Apple Store St. Catherine Street,Glasgow,United Kingdom,1716,2024-06-28
 529,415,215,3,1015.0,,Repaired,MacBook Air M3,2,07/11/2023,1299,Laptops,Apple Store Nagoya,Nagoya,Japan,3897,2024-06-29
-530,416,216,1,,,,AirPods Max,4,15/12/2020,549,Audio,Apple Store Passeig de GrÃ cia,Barcelona,Spain,549,2024-06-30
-531,417,217,3,1017.0,,In Process,iPad Air 5,3,18/03/2022,749,Tablets,Apple Store Mall of Berlin,Berlin,Germany,2247,2024-06-01
+530,416,216,1,,,,AirPods Max,4,15/12/2020,549,Audio,Apple Store Passeig De Grã Cia,Barcelona,Spain,549,2024-06-30
+531,417,217,3,1017.0,,In Process,iPad Air 5,3,18/03/2022,749,Tablets,Apple Store Mall Of Berlin,Berlin,Germany,2247,2024-06-01
 533,419,219,1,1019.0,,Replaced,Mac Mini M2,2,17/01/2023,699,Laptops,Apple Store Kanyon Mall,Istanbul,Turkey,699,2024-06-03
-534,420,220,4,,,,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Bahnhofstrasse,ZÃ¼rich,Switzerland,3196,2024-06-04
+534,420,220,4,,,,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Bahnhofstrasse,Zã¼Rich,Switzerland,3196,2024-06-04
 535,421,221,1,,,,iPad Air 5,3,18/03/2022,749,Tablets,Apple Store Cologne,Bonn,Germany,749,2024-06-05
 536,422,222,2,1022.0,,Repaired,iPhone 13 Mini,1,24/09/2021,699,Smartphones,Apple Store Florence,Florence,Italy,1398,2024-06-06
 538,424,224,4,,,,AirPods Pro 2,4,23/09/2022,249,Audio,Apple Store Lille,Lille,France,996,2024-06-08
 539,425,225,2,1025.0,,Replaced,Apple Watch SE,4,16/09/2022,249,Wearables,Apple Store Manchester Arndale,Manchester,United Kingdom,498,2024-06-09
 540,426,226,1,,,,iPhone 15 Pro Max,1,22/09/2023,1199,Smartphones,Apple Store Shinsaibashi,Osaka,Japan,1199,2024-06-10
-541,427,227,2,1027.0,,Repaired,Mac Mini M2,2,17/01/2023,699,Laptops,Apple Store Via del Corso,Rome,Italy,1398,2024-06-11
+541,427,227,2,1027.0,,Repaired,Mac Mini M2,2,17/01/2023,699,Laptops,Apple Store Via Del Corso,Rome,Italy,1398,2024-06-11
 542,428,228,3,,,,AirPods Max,4,15/12/2020,549,Audio,Apple Store Frankfurt Zeil,Frankfurt,Germany,1647,2024-06-12
-543,429,229,5,,,,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store ZÃ¼rich Bahnhofstrasse,ZÃ¼rich,Switzerland,2245,2024-06-13
+543,429,229,5,,,,iPad 10th Gen,3,26/10/2022,449,Tablets,Apple Store Zã1⁄4Rich Bahnhofstrasse,Zã¼Rich,Switzerland,2245,2024-06-13
 544,430,230,1,1030.0,02/07/2024,In Process,Apple Watch Ultra 2,4,22/09/2023,799,Wearables,Apple Store Harrods,London,United Kingdom,799,2024-06-14
 545,431,231,2,,,,iPhone SE 3,1,08/03/2022,429,Smartphones,Apple Store Akihabara,Tokyo,Japan,858,2024-06-15
 546,432,232,3,1032.0,04/07/2024,Repaired,MacBook Air M3,2,07/11/2023,1299,Laptops,Apple Store Antwerp,Antwerp,Belgium,3897,2024-06-16
