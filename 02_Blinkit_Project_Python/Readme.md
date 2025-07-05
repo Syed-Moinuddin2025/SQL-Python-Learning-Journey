@@ -1,6 +1,9 @@
 📦 Blinkit_Analysis_Project
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/Blinkit_Analysis_Project/blob/main/images/blinkit_banner.png" alt="Blinkit Project Banner" width="800"> </div>
-🧠 About the Project
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/blinkit.png " alt="Blinkit Project Banner" width="800"> </div>
+ 
+
+
+#🧠 About the Project
 This project is a data-driven analysis of Blinkit's operations, focusing on sales trends, outlet performance, product demand, and customer behavior.
 
 Using Python, Pandas, Matplotlib, and Seaborn, the goal is to uncover actionable insights that can help improve revenue, product placement, and customer satisfaction.
