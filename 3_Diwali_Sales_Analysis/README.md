@@ -5,7 +5,7 @@
 
  
 
-Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
+#### Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
 This project explores customer purchase behavior during Diwali using a real-world dataset. It uses Python (Pandas, Seaborn, and Matplotlib) to visualize patterns across gender, age, occupation, state, and product categories.
 
 ---
