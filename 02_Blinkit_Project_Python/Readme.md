@@ -1,5 +1,5 @@
 📦 Blinkit_Analysis_Project
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/blinkit.png " alt="Blinkit Project Banner" width="800"> </div>
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/blinkit.png " alt="Blinkit Project Banner" width="600"> </div>
  
 
 
