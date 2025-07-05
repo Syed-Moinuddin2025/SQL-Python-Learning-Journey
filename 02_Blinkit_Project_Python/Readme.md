@@ -84,7 +84,7 @@ Make sure required libraries are installed (pip install pandas matplotlib seabor
 Run each cell to explore insights.
 
 ✨ Output Snapshots
-<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/Blinkit_Analysis_Project/blob/main/images/sales_by_type.png" width="400"> <img src="https://github.com/Syed-Moinuddin2025/Blinkit_Analysis_Project/blob/main/images/item_weight_hist.png" width="400"> </div>
+<div align="center"> <img src="https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/02_Blinkit_Project_Python/Images/bestSaleingItemes.png" width="400"> <img src="https://github.com/Syed-Moinuddin2025/Blinkit_Analysis_Project/blob/main/images/item_weight_hist.png" width="400"> </div>
 🔚 Conclusion
 This Blinkit analysis uncovers key insights into how different outlet types, item categories, and customer behavior impact overall sales. These findings can help stakeholders take informed decisions for product stocking, outlet expansion, and marketing strategies.
 
