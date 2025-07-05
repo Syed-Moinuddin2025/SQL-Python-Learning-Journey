@@ -1,7 +1,9 @@
  # 🛍️ Diwali Sales Analysis — 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/sql-learning-journey/main/images/image56.png" alt="SQL Learning Banner" width="800" height="auto">
+  <img src="https://raw.githubusercontent.com/Syed-Moinuddin2025/python_Journey/blob/main/3_Diwali_Sales_Analysis/Images/image101.png" alt="image101.png" width="800" height="auto">
 </div>
+--- https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/3_Diwali_Sales_Analysis/Images/image101.png
+
 Python project for beginners- Analyze Diwali sales data to improve customer experience and sales
 This project explores customer purchase behavior during Diwali using a real-world dataset. It uses Python (Pandas, Seaborn, and Matplotlib) to visualize patterns across gender, age, occupation, state, and product categories.
 
