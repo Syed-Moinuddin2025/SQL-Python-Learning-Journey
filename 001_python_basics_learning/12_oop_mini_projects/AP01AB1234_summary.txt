@@ -1,0 +1,10 @@
+📊 Summary for Taxi AP01AB1234
+Total Trips: 6
+Total Earning: ₹405
+Trip Details:
+1. Mr. Ali | 5 km | ₹75 | Driver: Ahmed
+2. Ms. Sana | 7 km | ₹105 | Driver: Ahmed
+3. Mr. Farooq | 3 km | ₹45 | Driver: Imran
+4. Ms. Zara | 6 km | ₹90 | Driver: Rahim
+5. Mr. Bilal | 4 km | ₹60 | Driver: Rahim
+6. Ms. Aisha | 2 km | ₹30 | Driver: Rahim

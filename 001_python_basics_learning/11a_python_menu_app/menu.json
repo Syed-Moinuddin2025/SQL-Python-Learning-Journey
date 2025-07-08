@@ -1,0 +1,16 @@
+{
+  "Pizza": [
+    {"id": 1, "name": "Margherita", "price": 250},
+    {"id": 2, "name": "Farmhouse", "price": 350},
+    {"id": 3, "name": "Peppy Paneer", "price": 400}
+  ],
+  "Burger": [
+    {"id": 4, "name": "Veg Burger", "price": 120},
+    {"id": 5, "name": "Cheese Burger", "price": 150}
+  ],
+  "Cold Drink": [
+    {"id": 6, "name": "Coca Cola", "price": 50},
+    {"id": 7, "name": "Pepsi", "price": 50},
+    {"id": 8, "name": "Sprite", "price": 50}
+  ]
+}

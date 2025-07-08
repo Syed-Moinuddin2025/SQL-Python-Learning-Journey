@@ -1,0 +1,6 @@
+[{"name": "Practice zarori hai", "time": "5.20 mins"}, 
+{"name": "python training lesson", "time": "30:03 mins"},
+{"name": "sql is best for python user", "time": "30 mins"},
+{"name": "My first video ", "time": "20 mins"},
+{"name": "Youtube for python", "time": "9 hours"},
+{"name" :"python for everyone","time" : "12 hours"}]

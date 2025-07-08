@@ -1,0 +1,56 @@
+[
+    {
+        "item_id": 1,
+        "name": "Margherita Pizza",
+        "price": 150,
+        "category": "Pizza"
+    },
+    {
+        "item_id": 2,
+        "name": "Pepperoni Pizza",
+        "price": 220,
+        "category": "Pizza"
+    },
+    {
+        "item_id": 3,
+        "name": "Veggie Pizza",
+        "price": 180,
+        "category": "Pizza"
+    },
+    {
+        "item_id": 4,
+        "name": "Chicken Burger",
+        "price": 130,
+        "category": "Burger"
+    },
+    {
+        "item_id": 5,
+        "name": "Veg Burger",
+        "price": 100,
+        "category": "Burger"
+    },
+    {
+        "item_id": 6,
+        "name": "French Fries",
+        "price": 70,
+        "category": "Snacks"
+    },
+    {
+        "item_id": 7,
+        "name": "Garlic Bread",
+        "price": 90,
+        "category": "Snacks"
+    },
+    {
+        "item_id": 8,
+        "name": "Coke",
+        "price": 40,
+        "category": "Drinks"
+    },
+    {
+        "item_id": 9,
+        "name": "Pepsi",
+        "price": 40,
+        "category": "Drinks"
+    }
+]
