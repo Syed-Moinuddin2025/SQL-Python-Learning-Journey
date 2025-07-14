@@ -1,6 +1,6 @@
 # 🐍 Complete Python for Beginners
 
-![Python Beginner Banner](https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/001_python_basics/Image/Py123.png)
+![Python Beginner Banner](https://github.com/Syed-Moinuddin2025/python_Journey/blob/main/001_python_basics_learning/Image/Py123.png)
 
 ## Welcome to my Python learning journey! This repository contains beginner-friendly lessons, practice exercises, and assignments—all designed to help anyone learn Python step-by-step.
 
